@@ -6,8 +6,8 @@ The dataset contains movie-related metadata and critic review text. For this exp
 
 3. Baseline Model (Before Topic Modeling): 
 The baseline classifier uses:
-  1.	TF-IDF vectorization
-  2.	Logistic Regression
+   - TF-IDF vectorization
+   - Logistic Regression
 
 4. Topic Modeling: 
 4.1 Token-Augmented Modeling
